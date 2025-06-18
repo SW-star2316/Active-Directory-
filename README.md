@@ -7,7 +7,8 @@ First connect to the window Server through EC2 instance
 * click new
 * click on user
 * Then create the user name as you want it
-* After you create the user you want click on next and thats how you create a user
+* After you create the user you want
+* Your next going to create a secure password 
 # How to Create Group 
 * Click on Active Directory user and computer
 * Then click on school local
