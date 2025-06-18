@@ -9,7 +9,14 @@ First connect to the window Server through EC2 instance
 * Then create the user name as you want it
 * After you create the user you want click on next and thats how you create a user
 # How to Create & Add into group 
-
+* Click on Active Directory user and computer
+* Then click on school local
+* scroll down and press on user
+* click new
+* click on group
+* once you click on group you will create the group name you want to add
+* After click on okay
+* 
 
 # Active-Directory-
 https://www.loom.com/share/6fdf370200bc4f909efc3bc20d3482dc?sid=c2f80c51-5ccb-477f-8643-12ba686d988e
