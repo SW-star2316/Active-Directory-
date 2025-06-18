@@ -17,7 +17,13 @@ First connect to the window Server through EC2 instance
 * once you click on group you will create the group name you want to add
 * After click on okay
 # How to add user into Group 
-* 
+* Right click on the user you created
+* then click one Memeber of
+* click on add
+* then type in the group name you created click on okay
+* After go and click on the group name you created and click on to see if your user is there
+  # How to reset you password
+  
 
 # Active-Directory-
 https://www.loom.com/share/6fdf370200bc4f909efc3bc20d3482dc?sid=c2f80c51-5ccb-477f-8643-12ba686d988e
