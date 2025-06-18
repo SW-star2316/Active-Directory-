@@ -6,7 +6,9 @@ First connect to the window Server through EC2 instance
 * scroll down and press on user
 * click new
 * click on user
-* Then create the user name as you want it 
+* Then create the user name as you want it
+* After you create the user you want click on next and thats how you create a user
+# How to Create & Add into group 
 
 
 # Active-Directory-
