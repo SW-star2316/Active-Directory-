@@ -26,8 +26,8 @@ First connect to the window Server through EC2 instance
   # How to reset you password
   * Click on Active Directory User and Computer
   * Right click on the user you created
-  * next click on reset
-  * 
+  * next click on reset password 
+  * Then click on okay 
 
 # Active-Directory-
 https://www.loom.com/share/6fdf370200bc4f909efc3bc20d3482dc?sid=c2f80c51-5ccb-477f-8643-12ba686d988e
