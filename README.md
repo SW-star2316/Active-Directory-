@@ -1,7 +1,13 @@
 # Active Directory written description 
 First connect to the window Server through EC2 instance 
 # How to create User 
-Click on 
+* Click on Active Directory user and computers
+* then click on school local
+* scroll down and press on user
+* click new
+* click on user
+* Then create the user name as you want it 
+
 
 # Active-Directory-
 https://www.loom.com/share/6fdf370200bc4f909efc3bc20d3482dc?sid=c2f80c51-5ccb-477f-8643-12ba686d988e
