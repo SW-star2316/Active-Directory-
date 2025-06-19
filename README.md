@@ -1,14 +1,14 @@
 # Active Directory written description 
 First connect to the window Server through EC2 instance 
-# How to create User 
-* Click on Active Directory user and computers
-* then click on school local
-* scroll down and press on user
-* click new
-* click on user
-* Then create the user name as you want it
-* After you create the user you want
-* Your next going to create a secure password 
+# How to create User Steps to Create 
+* Steps to Create a New User in Active Directory:
+* Open Active Directory Users and Computers from the Start menu or administrative tools.
+* In the left-hand navigation pane, expand the school.local domain.
+* Scroll down and select the Users organizational unit (OU).
+* Right-click on the Users folder, hover over New, and then select User.
+* Enter the desired user details, including the first name, last name, and logon name, then click Next.
+* Set a secure password for the new account. Ensure it meets your organization's complexity requirements.
+* Confirm the password settings (e.g., "User must change password at next logon" if desired), and click Finish to complete the user creation process.
 # How to Create Group 
 * Click on Active Directory user and computer
 * Then click on school local
