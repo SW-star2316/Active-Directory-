@@ -1,5 +1,4 @@
 # Active Directory written description 
-First connect to the window Server through EC2 instance 
 # How to create User Steps to Create 
 * Steps to Create a New User in Active Directory:
 * Open Active Directory Users and Computers from the Start menu or administrative tools.
