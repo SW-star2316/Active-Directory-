@@ -8,14 +8,16 @@
 * Enter the desired user details, including the first name, last name, and logon name, then click Next.
 * Set a secure password for the new account. Ensure it meets your organization's complexity requirements.
 * Confirm the password settings (e.g., "User must change password at next logon" if desired), and click Finish to complete the user creation process.
-# How to Create Group 
-* Click on Active Directory user and computer
-* Then click on school local
-* scroll down and press on user
-* click new
-* click on group
-* once you click on group you will create the group name you want to add
-* After click on okay
+*
+* # How to Create Group 
+* Steps to Create a New Group in Active Directory:
+* Launch Active Directory Users and Computers from the Start menu or administrative tools.
+* In the left-hand panel, expand the school.local domain.
+* Scroll down and select the Users organizational unit (OU).
+* Right-click on the Users folder, hover over New, and then select Group.
+* In the dialog box that appears, enter the desired group name.
+* Choose the appropriate group scope (e.g., Global, Domain Local, or Universal) and group type (Security or Distribution), based on your requirements.
+
 # How to add user into Group 
 * Right click on the user you created
 * then click one Memeber of
