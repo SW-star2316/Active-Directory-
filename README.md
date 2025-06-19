@@ -1,6 +1,6 @@
 # Active Directory written description 
-# How to create User Steps to Create 
-* Steps to Create a New User in Active Directory:
+
+#  Steps to Create a New User in Active Directory:
 * Open Active Directory Users and Computers from the Start menu or administrative tools.
 * In the left-hand navigation pane, expand the school.local domain.
 * Scroll down and select the Users organizational unit (OU).
@@ -9,8 +9,7 @@
 * Set a secure password for the new account. Ensure it meets your organization's complexity requirements.
 * Confirm the password settings (e.g., "User must change password at next logon" if desired), and click Finish to complete the user creation process.
 *
-* # How to Create Group 
-* Steps to Create a New Group in Active Directory:
+#  Steps to Create a New Group in Active Directory:
 * Launch Active Directory Users and Computers from the Start menu or administrative tools.
 * In the left-hand panel, expand the school.local domain.
 * Scroll down and select the Users organizational unit (OU).
@@ -18,17 +17,24 @@
 * In the dialog box that appears, enter the desired group name.
 * Choose the appropriate group scope (e.g., Global, Domain Local, or Universal) and group type (Security or Distribution), based on your requirements.
 
-# How to add user into Group 
-* Right click on the user you created
-* then click one Memeber of
-* click on add
-* then type in the group name you created click on okay
-* After go and click on the group name you created and click on to see if your user is there
-  # How to reset you password
-  * Click on Active Directory User and Computer
-  * Right click on the user you created
-  * next click on reset password 
-  * Then click on okay 
+# Steps to Add a User to a Group in Active Directory:
+* Launch Active Directory Users and Computers from the Start menu or the Administrative Tools section.
+* Locate and right-click on the user account you previously created, then select Properties.
+* Navigate to the "Member Of" tab.
+* Click the Add button.
+* In the dialog box, enter the group name you created, then click OK to add the user to the group.
+* To confirm the user has been successfully added, navigate to the group you created, right-click on it, and select Properties. Then go to the Members tab to verify the user appears in the list.
+
+
+# Steps to Reset a User’s Password in Active Directory:
+* Open Active Directory Users and Computers from the Start menu or Administrative Tools.
+* Navigate to the organizational unit (OU) or container where the user account is located.
+* Right-click on the user account for which you want to reset the password, then select Reset Password from the context menu.
+* In the Reset Password dialog box, enter and confirm the new password.
+* (Optional) Select any applicable options, such as:
+* User must change password at next logon
+* Unlock the user’s account
+* Click OK to apply the changes and complete the password reset process.
 
 # Active-Directory-
 https://www.loom.com/share/6fdf370200bc4f909efc3bc20d3482dc?sid=c2f80c51-5ccb-477f-8643-12ba686d988e
